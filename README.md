@@ -60,5 +60,3 @@
 4. select Tools > Reboot vehicle > OK
 5. repeat steps 1 to 4 once again
 6. disconnect USB and close QGC
-## practice
-follow [Flight test](https://husteduvn-my.sharepoint.com/:b:/g/personal/quang_nguyenanh_hust_edu_vn/EWt6K5pES3xAvQUH6efoCnsBAsJJtE-ANsi4SAjkmfapFA?e=HEcrRC) document
