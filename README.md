@@ -4,7 +4,7 @@
 2. select Vehicle Setup tab > Parameters > Tools > Load from file...
 3. navigate to and select px4-hitl-simulation.params
 4. select Tools > Reboot vehicle > OK
-5. repeat steps 1 to 4 once again
+5. repeat steps 2 to 4 once again
 6. disconnect USB and close QGC
 ## modify model iris.sdf
 1. open iris.sdf (at Firmware/Tools/sitl_gazebo/models/iris/)
@@ -58,5 +58,6 @@
 2. select Vehicle Setup tab > Parameters > Tools > Load from file...
 3. navigate to and select **px4-practice.params**
 4. select Tools > Reboot vehicle > OK
-5. repeat steps 1 to 4 once again
+5. repeat steps 2 to 4 once again
 6. disconnect USB and close QGC
+7. follow [flight test](https://husteduvn-my.sharepoint.com/:b:/g/personal/quang_nguyenanh_hust_edu_vn/ER92PwI_aVBIq-ZB6Ls9zwYBxY7xHP34cfgBBbwq-X6S4w?e=Nf0FrE) guide
